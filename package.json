@@ -2,7 +2,7 @@
 	"name": "andre-nascimento-html-css-js-extension-pack",
 	"displayName": "Andre Nascimento HTML CSS JS Extension Pack",
 	"description": "Andre Nascimento HTML CSS JS extensões para o dia a dia.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.85.0"
 	},
@@ -22,7 +22,6 @@
 		"mrmlnc.vscode-scss",
 		"pranaygp.vscode-css-peek",
 		"sburg.vscode-javascript-booster",
-		"shengchen.vscode-checkstyle",
 		"sibiraj-s.vscode-scss-formatter"
 	],
 	"publisher": "andre-s-nascimento",
