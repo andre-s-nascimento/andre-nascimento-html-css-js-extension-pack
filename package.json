@@ -1,0 +1,49 @@
+{
+	"name": "andre-nascimento-html-css-js-extension-pack",
+	"displayName": "Andre Nascimento HTML CSS JS Extension Pack",
+	"description": "Andre Nascimento HTML CSS JS extensões para o dia a dia.",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.85.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"anteprimorac.html-end-tag-labels",
+		"christian-kohler.npm-intellisense",
+		"cipchk.cssrem",
+		"dbaeumer.vscode-eslint",
+		"ecmel.vscode-html-css",
+		"formulahendry.auto-close-tag",
+		"formulahendry.auto-rename-tag",
+		"jwsandeman.cyberpunk2077-theme",
+		"maxvanderschee.web-accessibility",
+		"mrmlnc.vscode-scss",
+		"pranaygp.vscode-css-peek",
+		"sburg.vscode-javascript-booster",
+		"shengchen.vscode-checkstyle",
+		"sibiraj-s.vscode-scss-formatter"
+	],
+	"publisher": "andre-s-nascimento",
+	"icon": "logo.png",
+	"galleryBanner": {
+		"color": "#d59600",
+		"theme": "dark"
+	},
+	"keywords": [
+		"base",
+		"start",
+		"extensions",
+		"html",
+		"css",
+		"javascript"
+	],
+	"repository": {
+		"url": "https://github.com/andre-s-nascimento/andre-nascimento-html-css-js-extension-pack"
+	},
+	"homepage": "https://github.com/andre-s-nascimento/andre-nascimento-base-extension-pack",
+	"bugs": {
+		"url": "https://github.com/andre-s-nascimento/andre-nascimento-html-css-js-extension-pack/issues"
+	}
+}
